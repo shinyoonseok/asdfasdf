@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>올아이피 - VR전문기업</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="image/images/favicon_03.gif">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+ <!--   <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="js/slide_banner.js"></script>-->
+</head>
+<body>
+ <p class="skip_navi blind"><a href="#container">본문내용 바로가기</a></p>
+   
+    <div class="wrap">
+       
+        <header>
+<div class="center">
+            <h1 class="logo"><a href="index.html"><img src="image/logo.png" alt="올아이피"></a></h1>
+            <nav class="gnb">
+                <ul>
+                    <li><a href="#">제품<!--<span></span>--></a></li>
+
+                    <li><a href="#">경험<!--<span></span>--></a></li>
+
+                    <li><a href="#">아이피몰<!--<span></span>--></a></li>
+
+                    <li><a href="#">접촉<!--<span></span>--></a></li>
+
+                    <li><a href="#">지원<!--<span></span>--></a></li>
+
+                </ul>
+            </nav>
+            <fieldset>
+                <legend class="blind">
+                    검색하기
+                </legend>
+                <input type="search">
+                <a href="#"><img src="image/topsearch.png" alt="검색"></a>
+                <a href="#"><img src="image/toplogin.png" alt="로그인 및 회원가입"></a>
+            </fieldset>
+            </div>
+            <!--center div end-->
+        </header>
+        
+        
+        
+        
+       
+        <div class="visual">
+            <div class="mainVisual">
+               
+                <ul>
+                    <li class="visual01">NOLO
+                    놀로와 함께하는 다이나믹한 VR 체험<a class="clickaction" href="#">예약하기</a></li>
+                    <li class="visual02">NOLO놀로와 함께하는 다이나믹한 VR 체험<a class="clickaction" href="#">예약하기</a></li>
+                    <li class="visual03">NOLO놀로와 함께하는 다이나믹한 VR 체험<a class="clickaction" href="#">예약하기</a></li>
+                </ul>
+            </div>
+            <!--브랜드비쥬얼끝-->
+            <ul class="buttonList">
+                <li class="on">1번버튼</li>
+                <li>2번버튼</li>
+                <li>3번버튼</li>
+            </ul>
+        </div>
+        <!--비쥬얼끝-->
+        
+
+        <div id="container">
+           
+           <!--4단메뉴 시작-->
+            <div class="fourth center2">
+              <div class="fourthleft">
+                <ul>
+                    <li><a href="#">Product<span></span></a></li>
+                    <li><a href="#">Ever Shop<span></span></a></li>
+                    <li><a href="#">Leap-Motion<span></span></a></li>
+                    <li><a href="#">Education<span></span></a></li>
+                </ul>
+            </div><!--fourth left end-->
+              
+            </div>
+            <!--4단메뉴 끝-->
+                    
+            <!--베스트 리스트 끝-->
+            <a href="#" class="off">
+                <p class="blind">인기 아이템 30% 세일</p>
+            </a>
+            <div class="bestlist center">
+                <h3>Best Item<span></span></h3>
+                <ul>
+                    <li><a href="#"><img src="image/images/odessey.jpg" alt="삼성 오디세이 컬렉션 보러가기"></a></li>
+                    <li><a href="#"><img src="image/images/pimaxcollection.jpg" alt="파이맥스8k 컬렉션 보러가기"></a></li>
+                </ul>
+            </div> 
+            <!--뉴 리스트 끝-->
+        
+
+            <div class="event center">
+                <h3 class="center">New Item<span></span></h3>
+                <p > 
+                    <a href="#"><img src="images/event1.gif" alt="2월에 태어난 당신 10% 중복할인 받으세요"></a>
+                </p>
+                <p >
+                    <a href="#"><img src="images/event2.gif" alt="구매금액대별 사은품 증정"> </a>
+                </p>
+
+            </div>
+            <!--이벤트끝-->
+            <div class="sns center">
+                <h3 class="center">내 최신 정보 확인하기<span></span></h3>
+                <p>SHare Your #AMOREPACIFIC moments!</p>
+                <p><a href="#">ADD YOUR PHOTO</a> <a href="#">VIEW GALLERY</a></p>
+                <h4 class="blind">SNS사진리스트</h4>
+                <ul>
+                    <li><a href="#"><img src="images/sns_icon_3.png" alt="페이스북 이미지"></a></li>
+                    <li><a href="#"><img src="images/sns_icon_4.png" alt="인스타그램 이미지"></a></li>
+                    <li><a href="#"><img src="images/sns_icon_4.png" alt="인스타그램 이미지"></a></li>
+                    <li><a href="#"><img src="images/sns_icon_3.png" alt="페이스북 이미지"></a></li>
+                    <li><a href="#"><img src="images/sns_icon_4.png" alt="인스타그램 이미지"></a></li>
+                </ul>
+
+            </div>
+            <!--sns끝-->
+
+            <p class="store">
+                <span class="center"><span class="front">store</span>
+                <span class="blind">
+                    찾으시는 매장을 선택해주세요
+                    <a href="#">오프라인매장</a>
+                    <a href="#">온라인 매장</a>
+                </span></span>
+            </p>
+        </div>
+        <!--컨테이너끝-->
+
+        <footer>
+            <div class="center">
+                <div class="border">
+                    <p><img src="images/bottom_logo.png" alt="아모레퍼시픽로고"></p>
+
+                    <ul>
+                        <li><a href="#">로그인</a></li>
+                        <li><a href="#">서비스이용약관</a></li>
+                        <li><a href="#">개인정보처리방침</a></li>
+                        <li><a href="#">영상정보처리방침</a></li>
+                        <li><a href="#">BEAUTY POINTSITEMAP</a></li>
+                    </ul>
+                </div>
+                <!--보더끝-->
+                <div class="right">
+                    <ul class="find">
+                        <li><a href="#">찾아오시는길</a></li>
+                        <li><a href="#">신규입점 제의</a></li>
+                        <li><a href="#">사이트맵</a></li>
+                    </ul>
+                    <ul class="snslist">
+                        <li><a href="#"><img src="images/bottom_sns_1.png" alt="인스타"></a></li>
+                        <li><a href="#"><img src="images/bottom_sns_2.png" alt="유튜브"></a></li>
+                        <li><a href="#"><img src="images/bottom_sns_3.png" alt="페북"></a></li>
+                    </ul>
+                </div>
+                <!--라이트 끝-->
+                <address>㈜아모레퍼시픽 | 서울특별시 용산구 한강대로 100(한강로2가<br> apmall_support@amorepacificmall.com | 080-000-0000(쇼핑문의) | 000-000-0001(제품문의)<br> 대표이사 : 안세홍 | 사업자등록번호 : 106-86-43373 | 통신판매업신고번호 : 서울용산-1308호 사업자정보확인<br> 건강기능식품판매업 영업신고증 제8호 | 호스팅제공자 : (주)아모레퍼시픽
+
+                    <span>이 사이트는 포트폴리오 용으로 만들어진 가상 사이트입니다. 사이트에 사용된 사진과 내용의 저작권은 아모레퍼시픽에 있습니다.<br> Copyrightⓒ 2020 곽세나 ALL Rights Reserved.</span></address>
+            </div>
+            <!--후터센터 끝-->
+
+        </footer>
+
+
+    </div>
+
+    <!--랩끝-->
+</body>
